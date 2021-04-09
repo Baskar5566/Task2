@@ -11,5 +11,16 @@ public class github {
      System.out.println(3);
 		}
 	
+		private void method4() {
+			System.out.println(4);
+		}
+
+		private void method5() {
+			System.out.println(5);
+		}
+
+		private void method6() {
+			System.out.println(6);
+		}
 
 }
