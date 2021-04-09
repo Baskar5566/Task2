@@ -35,4 +35,15 @@ public class github {
 			System.out.println(6);
 		}
 
+		private void method10() {
+	        System.out.println(7);
+			}
+			private void metho11() {
+	     System.out.println(8);
+			}
+			private void method12() {
+	     System.out.println(9);
+			}
+		
+		
 }
